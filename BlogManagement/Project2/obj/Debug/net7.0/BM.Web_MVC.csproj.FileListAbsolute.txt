@@ -1,0 +1,6 @@
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Assignment5-NguyenThienAn\BlogManagement\Project2\obj\Debug\net7.0\BM.Web_MVC.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Assignment5-NguyenThienAn\BlogManagement\Project2\obj\Debug\net7.0\BM.Web_MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Assignment5-NguyenThienAn\BlogManagement\Project2\obj\Debug\net7.0\BM.Web_MVC.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Assignment5-NguyenThienAn\BlogManagement\Project2\obj\Debug\net7.0\BM.Web_MVC.AssemblyInfo.cs
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Assignment5-NguyenThienAn\BlogManagement\Project2\obj\Debug\net7.0\BM.Web_MVC.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Assignment5-NguyenThienAn\BlogManagement\Project2\obj\Debug\net7.0\BM.Web_MVC.MvcApplicationPartsAssemblyInfo.cache

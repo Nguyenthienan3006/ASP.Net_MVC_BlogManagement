@@ -1,0 +1,56 @@
+﻿@using BM.Model
+@model Post_GetPostsByCategoryVM
+<h2>Get Posts By Category</h2>
+
+<form method="post" class="form-group">
+    <label for="CategoryId">Chọn danh mục:</label>
+    <select name="CategoryId" id="CategoryId" class="form-control form-control-lg">
+        <option hidden>Select Category</option>
+        @foreach (var category in Model.Categories)
+        {
+            <option value="@category.Id">@category.Name</option>
+        }
+    </select>
+    <button type="submit" class="btn btn-primary">Get Posts</button>
+</form>
+
+<div id="posts">
+    @if (Model.Posts != null)
+    {
+        <table class=" table table-bordered">
+            <thead>
+                <tr>
+                    <th>Post Id</th>
+                    <th>Title</th>
+                    <th>Short description</th>
+                    <th>Post content</th>
+                    <th>Url Slug</th>
+                    <th>Published</th>
+                    <th>Posted on</th>
+                    <th>Modified</th>
+                    <th>Category Id</th>
+
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var p in Model.Posts)
+                {
+                    <tr>
+                        <td>@p.Id</td>
+                        <td>@p.Title</td>
+                        <td>@p.ShortDescription</td>
+                        <td>@p.PostContent</td>
+                        <td>@p.UrlSlug</td>
+                        <td>@p.Published</td>
+                        <td>@p.PostedOn</td>
+                        <td>@p.Modified</td>
+                        <td>@p.CategoryId</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+</div>
+
+
+

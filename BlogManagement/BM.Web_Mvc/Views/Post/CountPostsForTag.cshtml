@@ -1,0 +1,19 @@
+﻿@model Post_CountPostsForTagVM
+
+<h2>Count Post for Tag</h2>
+
+<form method="post" class="form-group">
+    <select name="Id" id="Id" class="form-control form-control-lg">
+        <option hidden>Select Tag</option>
+        @foreach (var Cate in Model.TagList)
+        {
+            <option value="@Cate.Id">@Cate.Name</option>
+        }
+    </select>
+    <button type="submit" class="btn btn-primary">Count</button>
+</form>
+
+@if (Model.PostCountByTag.HasValue)
+{
+    <div id="result">Number of posts: @Model.PostCountByTag.Value</div>
+}

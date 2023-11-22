@@ -1,0 +1,24 @@
+﻿@using BM.Model
+@model List<Category>
+
+<h2>Create Post</h2>
+
+<form method="post" class="form-control">
+    <input hidden name="Id" id="Id">
+    <input type="text" class="form-control form-control-lg" name="Title" id="Title"
+           placeholder="Input Post Title">
+    <input type="text" class="form-control form-control-lg" name="ShortDescription" id="ShortDescription"
+           placeholder="Input Short Description">
+    <input type="text" class="form-control form-control-lg" name="PostContent" id="PostContent"
+           placeholder="Input Post Content">
+    <input type="text" class="form-control form-control-lg" name="UrlSlug" id="UrlSlug"
+           placeholder="Input Post Url">
+    <select name="CategoryId" id="CategoryId" class="form-control form-control-lg">
+        <option hidden>Select CategoryId</option>
+        @foreach (var post in Model)
+        {
+            <option value="@post.Id">@post.Name</option>
+        }
+    </select>
+    <button type="submit" class="btn btn-primary">Create</button>
+</form>

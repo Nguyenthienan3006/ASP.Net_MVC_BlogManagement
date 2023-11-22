@@ -1,0 +1,40 @@
+﻿@using BM.Model
+@model Tag
+<h2>Get Tag By UrlSlug</h2>
+
+<form method="post" class="form-group">
+    <label for="urlSlug">URL Slug:</label>
+    <input type="text" id="urlSlug" name="urlSlug" class="form-control" required>
+    <button type="submit" class="btn btn-primary">Get Posts</button>
+</form>
+
+<div id="posts">
+    @if (Model != null)
+    {
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>Tag Id</th>
+                    <th>Tag Name</th>
+                    <th>Url slug</th>
+                    <th>Description</th>
+                    <th>Count</th>
+
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>@Model.Id</td>
+                    <td>@Model.Name</td>
+                    <td>@Model.UrlSlug</td>
+                    <td>@Model.Description</td>
+                    <td>@Model.Count</td>
+                </tr>
+            </tbody>
+        </table>
+    }
+</div>
+
+
+
+

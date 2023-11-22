@@ -1,0 +1,19 @@
+﻿@model Post_CountPostsByCateVM
+
+<h2>Count Post for Category</h2>
+
+<form method="post" class="form-group">
+    <select name="CategoryId" id="CategoryId" class="form-control form-control-lg">
+        <option hidden>Select Category</option>
+        @foreach (var Cate in Model.Categories)
+        {
+            <option value="@Cate.Id">@Cate.Name</option>
+        }
+    </select>
+    <button type="submit" class="btn btn-primary">Count</button>
+</form>
+
+@if (Model.PostCount.HasValue)
+{
+    <div id="result">Number of posts: @Model.PostCount.Value</div>
+}

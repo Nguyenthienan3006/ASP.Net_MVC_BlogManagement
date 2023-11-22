@@ -1,0 +1,105 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BM.Web_Mvc
+build_property.RootNamespace = BM.Web_Mvc
+build_property.ProjectDir = C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Assignment5-NguyenThienAn\BlogManagement\BM.Web_Mvc\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Assignment5-NguyenThienAn\BlogManagement\BM.Web_Mvc
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/admin/Desktop/InternFall2023/Entity FrameWork/Assignment/Assignment5-NguyenThienAn/BlogManagement/BM.Web_Mvc/Views/Category/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Desktop/InternFall2023/Entity FrameWork/Assignment/Assignment5-NguyenThienAn/BlogManagement/BM.Web_Mvc/Views/Category/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Desktop/InternFall2023/Entity FrameWork/Assignment/Assignment5-NguyenThienAn/BlogManagement/BM.Web_Mvc/Views/Category/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Desktop/InternFall2023/Entity FrameWork/Assignment/Assignment5-NguyenThienAn/BlogManagement/BM.Web_Mvc/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Desktop/InternFall2023/Entity FrameWork/Assignment/Assignment5-NguyenThienAn/BlogManagement/BM.Web_Mvc/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Desktop/InternFall2023/Entity FrameWork/Assignment/Assignment5-NguyenThienAn/BlogManagement/BM.Web_Mvc/Views/Post/CountPostsForCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdFxDb3VudFBvc3RzRm9yQ2F0ZWdvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Desktop/InternFall2023/Entity FrameWork/Assignment/Assignment5-NguyenThienAn/BlogManagement/BM.Web_Mvc/Views/Post/CountPostsForTag.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdFxDb3VudFBvc3RzRm9yVGFnLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Desktop/InternFall2023/Entity FrameWork/Assignment/Assignment5-NguyenThienAn/BlogManagement/BM.Web_Mvc/Views/Post/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Desktop/InternFall2023/Entity FrameWork/Assignment/Assignment5-NguyenThienAn/BlogManagement/BM.Web_Mvc/Views/Post/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Desktop/InternFall2023/Entity FrameWork/Assignment/Assignment5-NguyenThienAn/BlogManagement/BM.Web_Mvc/Views/Post/GetLatestPost.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdFxHZXRMYXRlc3RQb3N0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Desktop/InternFall2023/Entity FrameWork/Assignment/Assignment5-NguyenThienAn/BlogManagement/BM.Web_Mvc/Views/Post/GetPostByMonth.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdFxHZXRQb3N0QnlNb250aC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Desktop/InternFall2023/Entity FrameWork/Assignment/Assignment5-NguyenThienAn/BlogManagement/BM.Web_Mvc/Views/Post/GetPostsByCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdFxHZXRQb3N0c0J5Q2F0ZWdvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Desktop/InternFall2023/Entity FrameWork/Assignment/Assignment5-NguyenThienAn/BlogManagement/BM.Web_Mvc/Views/Post/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Desktop/InternFall2023/Entity FrameWork/Assignment/Assignment5-NguyenThienAn/BlogManagement/BM.Web_Mvc/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Desktop/InternFall2023/Entity FrameWork/Assignment/Assignment5-NguyenThienAn/BlogManagement/BM.Web_Mvc/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Desktop/InternFall2023/Entity FrameWork/Assignment/Assignment5-NguyenThienAn/BlogManagement/BM.Web_Mvc/Views/Tag/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFnXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Desktop/InternFall2023/Entity FrameWork/Assignment/Assignment5-NguyenThienAn/BlogManagement/BM.Web_Mvc/Views/Tag/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFnXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Desktop/InternFall2023/Entity FrameWork/Assignment/Assignment5-NguyenThienAn/BlogManagement/BM.Web_Mvc/Views/Tag/GetTagByUrlSlug.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFnXEdldFRhZ0J5VXJsU2x1Zy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Desktop/InternFall2023/Entity FrameWork/Assignment/Assignment5-NguyenThienAn/BlogManagement/BM.Web_Mvc/Views/Tag/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFnXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Desktop/InternFall2023/Entity FrameWork/Assignment/Assignment5-NguyenThienAn/BlogManagement/BM.Web_Mvc/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Desktop/InternFall2023/Entity FrameWork/Assignment/Assignment5-NguyenThienAn/BlogManagement/BM.Web_Mvc/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Desktop/InternFall2023/Entity FrameWork/Assignment/Assignment5-NguyenThienAn/BlogManagement/BM.Web_Mvc/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-xm7fjjegsp

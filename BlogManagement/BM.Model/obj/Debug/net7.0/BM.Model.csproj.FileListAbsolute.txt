@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Assignment5-NguyenThienAn\BlogManagement\BM.Model\bin\Debug\net7.0\BM.Model.deps.json
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Assignment5-NguyenThienAn\BlogManagement\BM.Model\bin\Debug\net7.0\BM.Model.runtimeconfig.json
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Assignment5-NguyenThienAn\BlogManagement\BM.Model\bin\Debug\net7.0\BM.Model.dll
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Assignment5-NguyenThienAn\BlogManagement\BM.Model\bin\Debug\net7.0\BM.Model.pdb
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Assignment5-NguyenThienAn\BlogManagement\BM.Model\obj\Debug\net7.0\BM.Model.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Assignment5-NguyenThienAn\BlogManagement\BM.Model\obj\Debug\net7.0\BM.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Assignment5-NguyenThienAn\BlogManagement\BM.Model\obj\Debug\net7.0\BM.Model.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Assignment5-NguyenThienAn\BlogManagement\BM.Model\obj\Debug\net7.0\BM.Model.AssemblyInfo.cs
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Assignment5-NguyenThienAn\BlogManagement\BM.Model\obj\Debug\net7.0\BM.Model.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Assignment5-NguyenThienAn\BlogManagement\BM.Model\obj\Debug\net7.0\BM.Model.dll
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Assignment5-NguyenThienAn\BlogManagement\BM.Model\obj\Debug\net7.0\refint\BM.Model.dll
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Assignment5-NguyenThienAn\BlogManagement\BM.Model\obj\Debug\net7.0\BM.Model.pdb
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Assignment5-NguyenThienAn\BlogManagement\BM.Model\obj\Debug\net7.0\BM.Model.genruntimeconfig.cache
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Assignment5-NguyenThienAn\BlogManagement\BM.Model\obj\Debug\net7.0\ref\BM.Model.dll

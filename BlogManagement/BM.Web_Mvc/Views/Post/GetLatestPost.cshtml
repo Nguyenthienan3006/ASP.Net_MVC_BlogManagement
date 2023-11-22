@@ -1,0 +1,32 @@
+﻿@using BM.Model
+@model Post
+
+<h2>Latest Post</h2>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Post Id</th>
+            <th>Title</th>
+            <th>Short description</th>
+            <th>Post content</th>
+            <th>Url Slug</th>
+            <th>Published</th>
+            <th>Posted on</th>
+            <th>Modified</th>
+            <th>Category Id</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>@Model.Id</td>
+            <td>@Model.Title</td>
+            <td>@Model.ShortDescription</td>
+            <td>@Model.PostContent</td>
+            <td>@Model.UrlSlug</td>
+            <td>@Model.Published</td>
+            <td>@Model.PostedOn</td>
+            <td>@Model.Modified</td>
+            <td>@Model.CategoryId</td>
+        </tr>
+    </tbody>
+</table>

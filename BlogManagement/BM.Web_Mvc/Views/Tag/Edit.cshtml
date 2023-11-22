@@ -1,0 +1,15 @@
+﻿@using BM.Model
+
+<h2>Edit Tag</h2>
+<form method="post" class="form-control">
+    <input hidden value="@Model.Id" name="Id" id="Id" />
+    <input type="text" class="form-control form-control-lg" value="@Model.Name"
+           name="Name" id="Name" placeholder="Input Tag Name">
+    <input type="text" class="form-control form-control-lg" value="@Model.UrlSlug" name="UrlSlug" id="UrlSlug"
+           placeholder="Input Tag Url">
+    <input type="text" class="form-control form-control-lg" value="@Model.Description" name="Description" id="Description"
+           placeholder="Input Tag Description">
+    <input type="text" class="form-control form-control-lg" value="@Model.Count" name="Count" id="Count"
+           placeholder="Input Tag Count">
+    <button type="submit" class="btn btn-primary">Update</button>
+</form>

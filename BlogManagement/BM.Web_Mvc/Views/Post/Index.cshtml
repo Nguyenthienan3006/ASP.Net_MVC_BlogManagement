@@ -1,0 +1,88 @@
+﻿@using BM.Model
+@model List<Post>
+<style>
+    * {
+        box-sizing: border-box;
+    }
+    .css1 {
+        display: flex;
+        flex-direction: column;
+        width: 200px;
+        background-color: #f8f9fa;
+        padding: 10px;
+        border-radius: 5px;
+        box-shadow: 0 2px 5px rgba(0,0,0,0.15);
+    }
+
+        .css1 a {
+            text-decoration: none;
+            color: #333;
+            margin-bottom: 10px;
+            font-size: 14px;
+        }
+
+            .css1 a:hover {
+                color: #007bff;
+            }
+    h2{
+        margin-left: 200px
+    }
+    p{
+        font-weight: bold;
+    }
+</style>
+
+<div class="row">
+
+    <h2>Posts List</h2>
+    <div class="css1 table col-2">
+        <p>Post Menu</p>
+        <a href="~/Post/Create">Create post</a>
+        <a href="~/Post/CountPostsForCategory">Count Posts For Category</a>
+        <a href="~/Post/CountPostsForTag">Count Posts For Tag</a>
+        <a href="~/Post/GetLatestPost">Get Latest Post</a>
+        <a href="~/Post/GetPostsByCategory">Get Posts By Category</a>
+        <a href="~/Post/GetPostByMonth">Get Posts By Month</a>
+@*        <a href="">Get Posts By Tag</a>
+        <a href="">Get Publised Posts</a>
+        <a href="">Get Unpublised Posts</a>*@
+    </div>
+
+    <div class="col-10">
+        <table class=" table table-bordered">
+            <thead>
+                <tr>
+                    <th>Post Id</th>
+                    <th>Title</th>
+                    <th>Short description</th>
+                    <th>Post content</th>
+                    <th>Url Slug</th>
+                    <th>Published</th>
+                    <th>Posted on</th>
+                    <th>Modified</th>
+                    <th>Category Id</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var p in Model)
+                {
+                    <tr>
+                        <td>@p.Id</td>
+                        <td>@p.Title</td>
+                        <td>@p.ShortDescription</td>
+                        <td>@p.PostContent</td>
+                        <td>@p.UrlSlug</td>
+                        <td>@p.Published</td>
+                        <td>@p.PostedOn</td>
+                        <td>@p.Modified</td>
+                        <td>@p.CategoryId</td>
+                        <td>
+                            <a href="~/Post/Edit/@p.Id">Edit</a> | <a href="~/Post/Delete/@p.Id" onclick="return confirm('Do you want to delete this item')">Delete</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

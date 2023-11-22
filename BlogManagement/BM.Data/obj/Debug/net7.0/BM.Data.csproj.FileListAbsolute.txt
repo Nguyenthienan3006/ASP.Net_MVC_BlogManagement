@@ -1,0 +1,17 @@
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Assignment5-NguyenThienAn\BlogManagement\BM.Data\bin\Debug\net7.0\BM.Data.deps.json
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Assignment5-NguyenThienAn\BlogManagement\BM.Data\bin\Debug\net7.0\BM.Data.runtimeconfig.json
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Assignment5-NguyenThienAn\BlogManagement\BM.Data\bin\Debug\net7.0\BM.Data.dll
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Assignment5-NguyenThienAn\BlogManagement\BM.Data\bin\Debug\net7.0\BM.Data.pdb
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Assignment5-NguyenThienAn\BlogManagement\BM.Data\bin\Debug\net7.0\BM.Model.dll
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Assignment5-NguyenThienAn\BlogManagement\BM.Data\bin\Debug\net7.0\BM.Model.pdb
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Assignment5-NguyenThienAn\BlogManagement\BM.Data\obj\Debug\net7.0\BM.Data.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Assignment5-NguyenThienAn\BlogManagement\BM.Data\obj\Debug\net7.0\BM.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Assignment5-NguyenThienAn\BlogManagement\BM.Data\obj\Debug\net7.0\BM.Data.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Assignment5-NguyenThienAn\BlogManagement\BM.Data\obj\Debug\net7.0\BM.Data.AssemblyInfo.cs
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Assignment5-NguyenThienAn\BlogManagement\BM.Data\obj\Debug\net7.0\BM.Data.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Assignment5-NguyenThienAn\BlogManagement\BM.Data\obj\Debug\net7.0\BM.Data.csproj.CopyComplete
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Assignment5-NguyenThienAn\BlogManagement\BM.Data\obj\Debug\net7.0\BM.Data.dll
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Assignment5-NguyenThienAn\BlogManagement\BM.Data\obj\Debug\net7.0\refint\BM.Data.dll
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Assignment5-NguyenThienAn\BlogManagement\BM.Data\obj\Debug\net7.0\BM.Data.pdb
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Assignment5-NguyenThienAn\BlogManagement\BM.Data\obj\Debug\net7.0\BM.Data.genruntimeconfig.cache
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Assignment5-NguyenThienAn\BlogManagement\BM.Data\obj\Debug\net7.0\ref\BM.Data.dll

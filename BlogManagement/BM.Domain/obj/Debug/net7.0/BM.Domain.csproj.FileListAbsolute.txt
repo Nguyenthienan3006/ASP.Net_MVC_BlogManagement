@@ -1,0 +1,17 @@
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Assignment5-NguyenThienAn\BlogManagement\BM.Domain\bin\Debug\net7.0\BM.Domain.deps.json
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Assignment5-NguyenThienAn\BlogManagement\BM.Domain\bin\Debug\net7.0\BM.Domain.dll
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Assignment5-NguyenThienAn\BlogManagement\BM.Domain\bin\Debug\net7.0\BM.Domain.pdb
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Assignment5-NguyenThienAn\BlogManagement\BM.Domain\bin\Debug\net7.0\BM.Data.dll
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Assignment5-NguyenThienAn\BlogManagement\BM.Domain\bin\Debug\net7.0\BM.Model.dll
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Assignment5-NguyenThienAn\BlogManagement\BM.Domain\bin\Debug\net7.0\BM.Data.pdb
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Assignment5-NguyenThienAn\BlogManagement\BM.Domain\bin\Debug\net7.0\BM.Model.pdb
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Assignment5-NguyenThienAn\BlogManagement\BM.Domain\obj\Debug\net7.0\BM.Domain.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Assignment5-NguyenThienAn\BlogManagement\BM.Domain\obj\Debug\net7.0\BM.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Assignment5-NguyenThienAn\BlogManagement\BM.Domain\obj\Debug\net7.0\BM.Domain.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Assignment5-NguyenThienAn\BlogManagement\BM.Domain\obj\Debug\net7.0\BM.Domain.AssemblyInfo.cs
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Assignment5-NguyenThienAn\BlogManagement\BM.Domain\obj\Debug\net7.0\BM.Domain.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Assignment5-NguyenThienAn\BlogManagement\BM.Domain\obj\Debug\net7.0\BM.Domain.csproj.CopyComplete
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Assignment5-NguyenThienAn\BlogManagement\BM.Domain\obj\Debug\net7.0\BM.Domain.dll
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Assignment5-NguyenThienAn\BlogManagement\BM.Domain\obj\Debug\net7.0\refint\BM.Domain.dll
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Assignment5-NguyenThienAn\BlogManagement\BM.Domain\obj\Debug\net7.0\BM.Domain.pdb
+C:\Users\admin\Desktop\InternFall2023\Entity FrameWork\Assignment\Assignment5-NguyenThienAn\BlogManagement\BM.Domain\obj\Debug\net7.0\ref\BM.Domain.dll

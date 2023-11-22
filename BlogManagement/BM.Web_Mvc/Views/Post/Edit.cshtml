@@ -1,0 +1,22 @@
+﻿@using BM.Model
+@model Post
+
+<h2>Edit Post</h2>
+<form method="post" class="form-control">
+    <input hidden value="@Model.Id" value="@Model.Id" name="Id" id="Id" />
+    <input type="text" class="form-control form-control-lg" value="@Model.Title"
+           name="Title" id="Title" placeholder="Input Post Title">
+    <input type="text" class="form-control form-control-lg" value="@Model.ShortDescription"
+           name="ShortDescription" id="ShortDescription"
+           placeholder="Input Category Description">
+    <input type="text" class="form-control form-control-lg" value="@Model.PostContent" name="PostContent" id="PostContent"
+           placeholder="Input Post Content">
+    <input type="text" class="form-control form-control-lg" value="@Model.UrlSlug" name="UrlSlug" id="UrlSlug"
+           placeholder="Input Post Url">
+    <input hidden class="form-control form-control-lg" value="@Model.Published" name="Published" id="Published" />
+    <input hidden class="form-control form-control-lg" value="@Model.PostedOn" name="PostedOn" id="PostedOn" />
+    <input hidden class="form-control form-control-lg" value="@Model.Modified" name="Modified" id="Modified" />
+    <input hidden class="form-control form-control-lg" value="@Model.CategoryId" name="CategoryId" id="CategoryId" />
+    <button type="submit" class="btn btn-primary">Update</button>
+</form>
+
